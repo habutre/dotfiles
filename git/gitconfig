@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	email = rogerio.silva@rakuten.com.br
+	name = Rogério Ramos
